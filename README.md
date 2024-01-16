@@ -36,7 +36,7 @@ pip install pyproj
 4. **The converted coordinates will be saved to a new CSV file (converted_coordinates.csv).**
 
 ## License
-This project is licensed under the [MIT License](#LICENSE)
+This project is licensed under the [MIT License](LICENSE)
 ## Contact
 If you have any questions, or feedback, or just want to get in touch, feel free to reach out via email:
 - Email: aasiafjwu@gmail.com
